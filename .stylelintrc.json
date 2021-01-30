@@ -1,0 +1,9 @@
+{
+  "ignoreFiles": ["**/*.js", "**/*.ts", "**/*.tsx"],
+  "extends": ["stylelint-config-sass-guidelines"],
+  "rules": {
+    "max-nesting-depth": null,
+    "indentation": 2,
+    "selector-max-id": null
+  }
+}
