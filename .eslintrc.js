@@ -22,6 +22,7 @@ module.exports = {
     'prettier/prettier': ['error'],
     indent: ['error', 2],
     'no-unused-vars': 'warn',
+    '@typescript-eslint/no-var-requires': 'off',
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     'react/prop-types': 'off',
