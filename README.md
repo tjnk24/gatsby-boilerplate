@@ -1,4 +1,4 @@
-# GatsbyTypescriptSCSS
+# Gatsby Boilerplate
 
 - Gatsby
 - TypeScript
